@@ -135,10 +135,10 @@ testimonials:
           src: https://i.pravatar.cc/120?img=9
           loading: lazy
 cta:
-  title: Get started today
-  description: Nisi mollit id aliquip sunt est laborum sit sit.
+  title: Hãy cùng trò chuyện
+  description: Quan tâm đến việc hợp tác hoặc chỉ muốn chào hỏi? Hãy gửi cho tôi một tin nhắn!
   links:
-    - label: Buy now
+    - label: Liên hệ với tôi
       size: xl
       color: black
-      to: /pricing
+      to: tel:0374638603
