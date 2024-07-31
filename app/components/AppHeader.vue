@@ -4,12 +4,10 @@ import type { NavItem } from '@nuxt/content'
 const navigation = inject<Ref<NavItem[]>>('navigation', ref([]))
 
 const links = [{
-  label: 'Docs',
-  to: '/docs'
-}, {
-  label: 'Pricing',
-  to: '/pricing'
-}, {
+  label: 'Báo giá',
+  to: '/bao-gia'
+},
+, {
   label: 'Blog',
   to: '/blog'
 }]
@@ -18,8 +16,8 @@ const links = [{
 <template>
   <UHeader :links="links">
     <template #logo>
-      Nuxt UI Pro <UBadge
-        label="SaaS"
+      Long Web Studio <UBadge
+        label="Net"
         variant="subtle"
         class="mb-0.5"
       />
@@ -27,17 +25,9 @@ const links = [{
 
     <template #right>
       <UButton
-        label="Sign in"
+        label="Tư vấn"
         color="gray"
-        to="/login"
-      />
-      <UButton
-        label="Sign up"
-        icon="i-heroicons-arrow-right-20-solid"
-        trailing
-        color="black"
-        to="/signup"
-        class="hidden lg:flex"
+        to="https://zalo.me/g/vkeydv728"
       />
     </template>
 
