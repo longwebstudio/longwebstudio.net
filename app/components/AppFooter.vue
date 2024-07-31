@@ -59,29 +59,13 @@ function onSubmit() {
       <UFooterColumns :links="links">
         <template #right>
           <form @submit.prevent="onSubmit">
-            <UFormGroup
-              label="Subscribe to our newsletter"
-              :ui="{ container: 'mt-3' }"
-            >
-              <UInput
-                v-model="email"
-                type="email"
-                placeholder="Enter your email"
-                :ui="{ icon: { trailing: { pointer: '' } } }"
-                required
-                size="xl"
-                autocomplete="off"
-                class="max-w-sm"
-                input-class="rounded-full"
-              >
+            <UFormGroup label="Subscribe to our newsletter" :ui="{ container: 'mt-3' }">
+              <UInput v-model="email" type="email" placeholder="Enter your email"
+                :ui="{ icon: { trailing: { pointer: '' } } }" required size="xl" autocomplete="off" class="max-w-sm"
+                input-class="rounded-full">
                 <template #trailing>
-                  <UButton
-                    type="submit"
-                    size="xs"
-                    color="primary"
-                    :label="loading ? 'Subscribing' : 'Subscribe'"
-                    :loading="loading"
-                  />
+                  <UButton type="submit" size="xs" color="primary" :label="loading ? 'Subscribing' : 'Subscribe'"
+                    :loading="loading" />
                 </template>
               </UInput>
             </UFormGroup>
@@ -99,14 +83,8 @@ function onSubmit() {
     <template #right>
       <UColorModeButton size="sm" />
 
-      <UButton
-        to="https://github.com/nuxt-ui-pro/saas"
-        target="_blank"
-        icon="i-simple-icons-github"
-        aria-label="GitHub"
-        color="gray"
-        variant="ghost"
-      />
+      <UButton to="https://www.facebook.com/lovanlongvn" target="_blank" icon="i-simple-icons-facebook"
+        aria-label="Facebook" color="gray" variant="ghost" />
     </template>
   </UFooter>
 </template>
