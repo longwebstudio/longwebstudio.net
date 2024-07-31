@@ -1,0 +1,1 @@
+{"id":"7283a209-ffda-4e2d-a5e8-c370078d3167","timestamp":1722401657192,"matcher":{"static":{"/":{"prerender":true},"/api/search.json":{"prerender":true},"/docs":{"redirect":"/docs/getting-started"}},"wildcard":{},"dynamic":{}},"prerendered":["/bao-gia"]}
