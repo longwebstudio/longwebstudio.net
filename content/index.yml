@@ -1,71 +1,34 @@
-title: Nhà thiết kế website hiện đại - Long Web Studio
-description: Tôi là nhà thiết kế website hiện đại và chuyên nghiệp, cung cấp các giải pháp thiết kế như website cửa hàng, thiết kế website blog, và ứng dụng.
-navigation: false
+title: Nuxt UI Pro - Landing template
+description: Nuxt UI Pro is a collection of premium Vue components built on top of Nuxt UI to create beautiful & responsive Nuxt applications in minutes.
 hero:
-  title: Thiết kế website hiện đại
-  description: This template demonstrates most of Nuxt UI Pro's components. It's a great starting point to build your own SaaS.
+  title: Build your landing in seconds
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
   headline:
-    label: Lỗ Văn Long
-    to: https://www.facebook.com/lovanlongvn
+    label: Made with Nuxt UI Pro
+    to: https://ui.nuxt.com/pro
     icon: i-heroicons-arrow-top-right-on-square-20-solid
   links:
-    - label: Đăng ký
-      to: 'https://zalo.me/g/vkeydv728'
-      size: xl
-      color: black
+    - label: Get started
       icon: i-heroicons-arrow-right-20-solid
       trailing: true
-    - label: Kết nối Facebook
-      icon: i-simple-icons-facebook
+      to: '#features'
+      size: xl
+    - label: Use this template
+      icon: i-simple-icons-github
       size: xl
       color: gray
-      to: https://www.facebook.com/longwebstudio
+      to: https://github.com/nuxt-ui-pro/landing
       target: _blank
-sections:
-  - title: The power of our service
-    description: Aliqua labore laboris fugiat. Reprehenderit exercitation eu commodo. Officia nostrud sit et aliqua ea ex sunt minim incididunt sunt.
-    id: features
-    align: left
-    features:
-      - name: Easy to use
-        description: Id laborum laboris duis nostrud excepteur ut velit.
-        icon: i-heroicons-cog
-      - name: Reliable
-        description: Magna Lorem ex cillum fugiat ad enim aute irure sit duis minim.
-        icon: i-heroicons-check
-      - name: Secure
-        description: Proident nostrud excepteur sint ut culpa consectetur aute adipisicing.
-        icon: i-heroicons-lock-closed
-    links:
-      - label: Explore components
-        to: /pro/components
-        color: gray
-        icon: i-heroicons-arrow-right-20-solid
-        trailing: true
-        size: md
-        class: ml-8
-  - title: The speed of our service
-    description: Cillum sint enim excepteur ut deserunt qui nisi in deserunt in. Deserunt aliquip quis aliquip eu quis ex velit velit nostrud sit.
-    align: right
-    features:
-      - name: Fast
-        description: Qui reprehenderit nostrud dolore nisi ad fugiat labore eiusmod.
-        icon: i-heroicons-rocket-launch
-      - name: Affordable
-        description: Reprehenderit fugiat elit in do ipsum ut pariatur.
-        icon: i-heroicons-currency-dollar
-      - name: Scalable
-        description: Lorem deserunt et eiusmod. Ea in consectetur minim officia.
-        icon: i-heroicons-chart-bar
-    links:
-      - label: Learn more
-        to: /pro/guide/content
-        color: gray
-        icon: i-heroicons-arrow-right-20-solid
-        trailing: true
-        size: md
-        class: ml-8
+logos:
+  title: Trusted by the world's best
+  icons:
+    - i-simple-icons-amazonaws
+    - i-simple-icons-heroku
+    - i-simple-icons-netlify
+    - i-simple-icons-vercel
+    - i-simple-icons-cloudflare
 features:
+  headline: Features
   title: Why choose our service?
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   items:
@@ -87,6 +50,57 @@ features:
     - title: Scalable
       description: Lorem deserunt et eiusmod. Ea in consectetur minim officia ullamco enim deserunt est.
       icon: i-heroicons-chart-bar
+pricing:
+  headline: Pricing
+  title: A plan for every need
+  description: Pariatur laborum dolor ea commodo sit aute aliquip qui et cillum excepteur.
+  plans:
+    - title: Basic
+      description: A basic plan for individuals.
+      price: $9.99
+      align: top
+      button:
+        label: Get Started
+        color: gray
+      features:
+        - 1 GB Storage
+        - 1 Email Account
+        - 1 Domain
+        - 1 Website
+        - 1 Database
+        - 1 SSL Certificate
+        - 1 Support Ticket
+    - title: Standard
+      description: A standard plan for small teams.
+      price: $19.99
+      highlight: true
+      scale: true
+      align: top
+      button:
+        label: Get Started
+      features:
+        - 10 GB Storage
+        - 10 Email Accounts
+        - 10 Domains
+        - 10 Websites
+        - 10 Databases
+        - 10 SSL Certificates
+        - 10 Support Tickets
+    - title: Premium
+      description: A premium plan for large teams.
+      price: $29.99
+      align: top
+      button:
+        label: Get Started
+        color: gray
+      features:
+        - 100 GB Storage
+        - 100 Email Accounts
+        - 100 Domains
+        - 100 Websites
+        - 100 Databases
+        - 100 SSL Certificates
+        - 100 Support Tickets
 testimonials:
   headline: Testimonials
   title: What our customers are saying.
@@ -135,10 +149,25 @@ testimonials:
           src: https://i.pravatar.cc/120?img=9
           loading: lazy
 cta:
-  title: Hãy cùng trò chuyện
-  description: Quan tâm đến việc hợp tác hoặc chỉ muốn chào hỏi? Hãy gửi cho tôi một tin nhắn!
+  title: Get started today
+  description: Nisi mollit id aliquip sunt est laborum sit sit.
   links:
-    - label: Liên hệ với tôi
+    - label: Sign up for free
       size: xl
-      color: black
-      to: tel:0374638603
+faq:
+  title: Frequently asked questions
+  description: Culpa consectetur dolor pariatur commodo aliqua amet tempor nisi enim deserunt elit cillum.
+  items:
+    - label: Is this a secure service?
+      content: Qui sunt nostrud aliquip reprehenderit enim proident veniam magna aliquip velit occaecat eiusmod nisi deserunt sunt.
+      defaultOpen: true
+    - label: How can I cancel my subscription?
+      content: Consectetur irure Lorem nostrud adipisicing aliqua mollit Lorem sit officia magna eiusmod cupidatat.
+    - label: How does the free trial work?
+      content: Quis officia commodo magna eu qui aliquip duis.
+    - label: Can I switch plans later?
+      content: Dolore irure ullamco dolore eu occaecat magna eiusmod dolor aliqua culpa labore.
+    - label: Do you offer refunds?
+      content: Duis mollit nostrud voluptate mollit Lorem dolore commodo veniam incididunt eiusmod.
+    - label: Do you offer support?
+      content: Aliqua sit nisi consequat pariatur Lorem minim irure qui.

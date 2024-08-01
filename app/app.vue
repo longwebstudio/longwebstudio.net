@@ -1,8 +1,4 @@
 <script setup lang="ts">
-const colorMode = useColorMode()
-
-const color = computed(() => colorMode.value === 'dark' ? '#111827' : 'white')
-
 useHead({
   meta: [
     { charset: 'utf-8' },
@@ -11,7 +7,7 @@ useHead({
     { key: 'theme-color', name: 'theme-color', content: '#f9cf53' }
   ],
   link: [
-     { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' },
+    { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' },
     { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png' },
     { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' },
     { rel: 'manifest', href: '/site.webmanifest' },
@@ -23,7 +19,7 @@ useHead({
 })
 
 useSeoMeta({
-  titleTemplate: '%s - Long Web Studio',
+  titleTemplate: '%s | Long Web Studio',
   ogImage: 'https://i0.wp.com/store.longwebstudio.net/wordpress/wp-content/uploads/2021/06/thiet-ke-website-ban-hang.jpg',
   twitterImage: 'https://i0.wp.com/store.longwebstudio.net/wordpress/wp-content/uploads/2021/06/thiet-ke-website-ban-hang.jpg',
   twitterCard: 'summary_large_image'
@@ -31,13 +27,13 @@ useSeoMeta({
 </script>
 
 <template>
-  <div>
-    <NuxtLoadingIndicator />
+  <AppHeader />
 
-    <NuxtLayout>
-      <NuxtPage />
-    </NuxtLayout>
+  <UMain>
+    <NuxtPage />
+  </UMain>
 
-    <UNotifications />
-  </div>
+  <AppFooter />
+
+  <UNotifications />
 </template>
