@@ -1,173 +1,159 @@
-title: Nuxt UI Pro - Landing template
-description: Nuxt UI Pro is a collection of premium Vue components built on top of Nuxt UI to create beautiful & responsive Nuxt applications in minutes.
+title: Long Web Studio - Nhà thiết kế website chuyên nghiệp
+description: "Tạo nên một website hiệu quả, giúp doanh nghiệp của bạn nổi bật trên internet và thu hút khách hàng tiềm năng ngay hôm nay!"
 hero:
-  title: Build your landing in seconds
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
+  title: Thiết Kế Website Hiệu Quả - Nổi Bật Trên Internet và Thu Hút Khách Hàng
+  description: Tăng cường sự hiện diện trực tuyến của doanh nghiệp với thiết kế website chuyên nghiệp. Đảm bảo nổi bật trên internet và thu hút khách hàng tiềm năng bằng một trang web hiệu quả, tối ưu SEO. Khám phá ngay giải pháp thiết kế web chất lượng cho doanh nghiệp của bạn!
   headline:
-    label: Made with Nuxt UI Pro
-    to: https://ui.nuxt.com/pro
+    label: Long Web Studio
+    to: https://facebook.com/longwebstudio
     icon: i-heroicons-arrow-top-right-on-square-20-solid
   links:
-    - label: Get started
+    - label: Bắt đầu
       icon: i-heroicons-arrow-right-20-solid
       trailing: true
       to: '#features'
       size: xl
-    - label: Use this template
-      icon: i-simple-icons-github
+    - label: 0978.333.963
+      icon: i-simple-icons-zalo
       size: xl
       color: gray
-      to: https://github.com/nuxt-ui-pro/landing
+      to: tel:0978333963
       target: _blank
 logos:
-  title: Trusted by the world's best
+  title: Thiết kế website hiện đại
   icons:
-    - i-simple-icons-amazonaws
-    - i-simple-icons-heroku
-    - i-simple-icons-netlify
-    - i-simple-icons-vercel
-    - i-simple-icons-cloudflare
+    - i-simple-icons-vuedotjs
+    - i-simple-icons-nextdotjs
+    - i-simple-icons-quasar
+    - i-simple-icons-tailwindcss
+    - i-simple-icons-githubpages
 features:
-  headline: Features
-  title: Why choose our service?
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  headline: Tạo sự hiện diện online
+  title: Xây dựng sự hiện diện online cho doanh nghiệp.
+  description: Khi bạn chọn dịch vụ thiết kế website, điều quan trọng là tìm kiếm sự kết hợp hoàn hảo giữa chất lượng, hiệu suất, bảo mật, và sự hỗ trợ chuyên nghiệp. Chúng tôi hiểu rằng bạn không chỉ muốn một trang web đẹp và hấp dẫn, mà còn cần đảm bảo rằng nó hoạt động hiệu quả, bảo mật tốt, và có thể đáp ứng nhanh chóng những thay đổi và yêu cầu của doanh nghiệp.
   items:
-    - title: Easy to use
-      description: Id laborum laboris duis nostrud excepteur ut velit nulla magna Lorem proident non.
+    - title: Chất lượng
+      description: là yếu tố cốt lõi mà chúng tôi tập trung vào. Chúng tôi cam kết thiết kế các trang web không chỉ đẹp mắt mà còn phản ánh chính xác thương hiệu và mục tiêu của bạn.
       icon: i-heroicons-cog
-    - title: Reliable
-      description: Magna Lorem ex cillum fugiat ad enim aute irure sit duis minim.
+    - title: Hiệu suất
+      description: cũng rất quan trọng. Trang web của bạn sẽ được tối ưu hóa để tải nhanh và hoạt động mượt mà trên tất cả các thiết bị, từ máy tính để bàn đến điện thoại di động.
       icon: i-heroicons-check
-    - title: Secure
-      description: Proident nostrud excepteur sint ut culpa consectetur aute adipisicing non anim ullamco.
+    - title: Bảo mật
+      description: là ưu tiên hàng đầu của chúng tôi. Chúng tôi áp dụng các biện pháp bảo mật tiên tiến để bảo vệ dữ liệu của bạn và đảm bảo rằng trang web của bạn luôn an toàn trước các mối đe dọa.
       icon: i-heroicons-lock-closed
-    - title: Fast
-      description: Qui reprehenderit nostrud dolore nisi ad fugiat labore eiusmod sint aliquip nisi voluptate.
+    - title: Sự hỗ trợ chuyên nghiệp
+      description: từ đội ngũ của chúng tôi là một phần không thể thiếu. Chúng tôi luôn sẵn sàng hỗ trợ bạn trong việc quản lý, cập nhật, và duy trì trang web, đảm bảo rằng bạn luôn nhận được sự giúp đỡ khi cần.
       icon: i-heroicons-rocket-launch
-    - title: Affordable
-      description: Reprehenderit fugiat elit in do ipsum ut pariatur.
+    - title: Chi phí hợp lý
+      description: Cung cấp dịch vụ thiết kế với chi phí hợp lý mà vẫn đảm bảo giá trị cao và hiệu quả.
       icon: i-heroicons-currency-dollar
-    - title: Scalable
-      description: Lorem deserunt et eiusmod. Ea in consectetur minim officia ullamco enim deserunt est.
+    - title: Phát triển trong tương lai
+      description: đảm bảo rằng trang web của bạn không chỉ đáp ứng nhu cầu hiện tại mà còn có thể phát triển và thích ứng với những thay đổi trong tương lai, giúp doanh nghiệp của bạn duy trì sự cạnh tranh và phát triển bền vững.
       icon: i-heroicons-chart-bar
 pricing:
-  headline: Pricing
-  title: A plan for every need
-  description: Pariatur laborum dolor ea commodo sit aute aliquip qui et cillum excepteur.
+  headline: Báo giá
+  title: Thiết kế website chỉ từ 500K
+  description: Dưới đây là các gói thiết kế website với mức giá thấp nhất, phù hợp cho ngân sách cực kỳ hạn chế.
   plans:
-    - title: Basic
-      description: A basic plan for individuals.
-      price: $9.99
+    - title: Gói Mini
+      description: Dành cho cá nhân hoặc doanh nghiệp nhỏ cần một trang web đơn giản và tiết kiệm nhất có thể.
+      price: 1.000.000 VNĐ
+      discount: 500.000 VNĐ
       align: top
       button:
-        label: Get Started
+        label: Bắt Đầu
         color: gray
       features:
-        - 1 GB Storage
-        - 1 Email Account
-        - 1 Domain
-        - 1 Website
-        - 1 Database
-        - 1 SSL Certificate
-        - 1 Support Ticket
-    - title: Standard
-      description: A standard plan for small teams.
-      price: $19.99
+        - Sử dụng mẫu có sẵn (template) từ các nền tảng miễn phí hoặc giá rẻ.
+        - Tối đa 1 trang (Giới thiệu hoặc Liên hệ).
+        - Form liên hệ cơ bản, liên kết mạng xã hội.
+        - Không có bảo trì hoặc hỗ trợ sau khi hoàn thành.
+    - title: Gói Cơ Bản Đơn Giản
+      description: Dành cho doanh nghiệp nhỏ hoặc cá nhân muốn một trang web đơn giản với một số tính năng cơ bản.
+      price: 2.000.000 VNĐ
+      discount: 1.500.000 VNĐ
       highlight: true
       scale: true
       align: top
       button:
-        label: Get Started
+        label: Bắt Đầu
       features:
-        - 10 GB Storage
-        - 10 Email Accounts
-        - 10 Domains
-        - 10 Websites
-        - 10 Databases
-        - 10 SSL Certificates
-        - 10 Support Tickets
-    - title: Premium
-      description: A premium plan for large teams.
-      price: $29.99
+        - Sử dụng mẫu có sẵn, chỉnh sửa cơ bản theo yêu cầu.
+        - Tối đa 2-3 trang (Giới thiệu, Dịch vụ, Liên hệ).
+        - Form liên hệ, liên kết mạng xã hội, có thể thêm một blog cơ bản.
+        - Hỗ trợ cập nhật nội dung cơ bản trong 1 tháng.
+    - title: Gói Cơ Bản Cải Tiến
+      description: Dành cho doanh nghiệp nhỏ cần nhiều tính năng hơn nhưng vẫn giữ chi phí thấp.
+      price: 3.000.000 VNĐ
+      discount: 2.500.000 VNĐ
       align: top
       button:
-        label: Get Started
+        label: Bắt Đầu
         color: gray
       features:
-        - 100 GB Storage
-        - 100 Email Accounts
-        - 100 Domains
-        - 100 Websites
-        - 100 Databases
-        - 100 SSL Certificates
-        - 100 Support Tickets
+        - Sử dụng mẫu có sẵn, với chỉnh sửa và tùy chỉnh cơ bản.
+        - Tối đa 5 trang (Giới thiệu, Dịch vụ, Tin tức, Blog, Liên hệ).
+        - Form liên hệ, liên kết mạng xã hội, tích hợp một số công cụ cơ bản.
+        - Hỗ trợ cập nhật nội dung và bảo trì cơ bản trong 2 tháng.
 testimonials:
-  headline: Testimonials
-  title: What our customers are saying.
-  description: Proident sunt exercitation minim laborum enim laboris labore esse.
+  headline: Khách hàng
+  title: nói gì về Long Web Studio.
+  description: Khách hàng đang sử dụng dịch vụ thiết kế website đã viết nhận xét gửi đến cho Long Web Studio.
   items:
-    - quote: Nostrud tempor sunt fugiat. Dolor in sint dolore labore non occaecat adipisicing Lorem labore ullamco enim excepteur. In fugiat Lorem sit velit id veniam esse eiusmod non ea voluptate cupidatat reprehenderit ullamco dolore. Mollit laborum occaecat aliquip.
+    - quote: Làm việc với Long Web Studio đã mang đến cho chúng tôi một trải nghiệm tuyệt vời. Họ cung cấp thiết kế website chuyên nghiệp và sáng tạo, giúp nâng cao sự hiện diện trực tuyến của công ty. Chúng tôi rất hài lòng với kết quả và dịch vụ hỗ trợ tận tình.
       author:
-        name: Rose Roberson
-        description: CEO at Company
+        name: Lan My
+        description: BIGBOOS mỹ phẩm Amycos
         avatar:
-          src: https://i.pravatar.cc/120?img=1
+          src: /lan-my.jpg
           loading: lazy
-    - quote: Eiusmod dolor aute ut nulla pariatur officia consequat aute amet exercitation.
+    - quote: Long Web Studio đã vượt xa mong đợi của chúng tôi. Trang web mới của chúng tôi không chỉ đẹp mắt mà còn rất dễ sử dụng và thân thiện với người dùng. Đội ngũ của họ rất chu đáo và hiểu rõ nhu cầu của chúng tôi.
       author:
-        name: Chace Rodgers
-        description: CEO at Company
+        name: Hồ Thị Thắm
+        description: Bưu điện xã Tự Lập
         avatar:
-          src: https://i.pravatar.cc/120?img=7
+          src: /ho-tham.jpg
           loading: lazy
-    - quote: Id duis velit enim officia ad nisi incididunt magna ex dolor minim deserunt dolor. Esse incididunt cillum nostrud esse do quis amet labore amet nulla eiusmod amet nulla Lorem. Incididunt ex voluptate irure officia laboris ea proident est qui.
+    - quote: Chúng tôi rất ấn tượng với Long Web Studio. Họ đã thiết kế một website chất lượng cao, hoàn toàn phù hợp với thương hiệu của chúng tôi. Dịch vụ hỗ trợ và tư vấn trong suốt quá trình cũng rất xuất sắc.
       author:
-        name: Cornelius Sheppard
-        description: CEO at Company
+        name: Vũ Thị Hiền
+        description: Bưu điện Đồng Lạc
         avatar:
-          src: https://i.pravatar.cc/120?img=3
+          src: /vu-thi-hien.jpg
           loading: lazy
-    - quote: Velit consectetur in adipisicing culpa eiusmod commodo eu ex dolore. Officia irure nisi dolor dolore velit fugiat. Aliqua sint aliqua aute elit eu sunt.
+    - quote: Kinh nghiệm làm việc với Long Web Studio là một trải nghiệm tuyệt vời. Thiết kế website của họ rất hiện đại và chức năng tốt, giúp chúng tôi thu hút khách hàng mới và cải thiện kết quả kinh doanh. Dự án được hoàn thành đúng hạn và trong ngân sách dự kiến.
       author:
-        name: Destinee Woods
-        description: CEO at Company
+        name: Hồ Thanh
+        description: CEO
         avatar:
-          src: https://i.pravatar.cc/120?img=5
-          loading: lazy
-    - quote: Proident quis deserunt qui ex exercitation veniam id Lorem est cupidatat ipsum irure aliquip ad.
-      author:
-        name: Kaleb Mccormick
-        description: CEO at Company
-        avatar:
-          src: https://i.pravatar.cc/120?img=8
-          loading: lazy
-    - quote: Magna officia quis ea ea in officia non voluptate ipsum culpa do labore sunt. Aute est dolore commodo sint officia ad laboris dolor magna aliquip exercitation tempor commodo.
-      author:
-        name: Jazmin Mccall
-        description: CEO at Company
-        avatar:
-          src: https://i.pravatar.cc/120?img=9
+          src: /ho-thanh.jpg
           loading: lazy
 cta:
-  title: Get started today
-  description: Nisi mollit id aliquip sunt est laborum sit sit.
+  title: Hãy cùng trò chuyện
+  description: Quan tâm đến việc hợp tác hoặc chỉ muốn chào hỏi? Hãy gửi cho tôi một tin nhắn!
   links:
-    - label: Sign up for free
+    - label: 0374 638 603
       size: xl
+      to: tel:0374638603
+      icon: i-simple-icons-zalo
 faq:
-  title: Frequently asked questions
-  description: Culpa consectetur dolor pariatur commodo aliqua amet tempor nisi enim deserunt elit cillum.
+  title: Các câu hỏi thường gặp
+  description: Chúng tôi cung cấp dịch vụ thiết kế website với thời gian hoàn thành linh hoạt, chi phí dựa trên yêu cầu cụ thể, hỗ trợ chỉnh sửa nội dung, tối ưu hóa SEO, và thiết kế đáp ứng trên mọi thiết bị.
   items:
-    - label: Is this a secure service?
-      content: Qui sunt nostrud aliquip reprehenderit enim proident veniam magna aliquip velit occaecat eiusmod nisi deserunt sunt.
+    - label: Thiết kế website mất bao lâu? 
+      content: Thời gian hoàn thành một website phụ thuộc vào độ phức tạp và yêu cầu cụ thể của dự án. Thông thường, một website cơ bản có thể mất từ 2-4 tuần, trong khi các dự án phức tạp hơn có thể cần từ 6-8 tuần hoặc lâu hơn. Chúng tôi sẽ cung cấp một thời gian dự kiến sau khi thảo luận chi tiết về dự án của bạn.
       defaultOpen: true
-    - label: How can I cancel my subscription?
-      content: Consectetur irure Lorem nostrud adipisicing aliqua mollit Lorem sit officia magna eiusmod cupidatat.
-    - label: How does the free trial work?
-      content: Quis officia commodo magna eu qui aliquip duis.
-    - label: Can I switch plans later?
-      content: Dolore irure ullamco dolore eu occaecat magna eiusmod dolor aliqua culpa labore.
-    - label: Do you offer refunds?
-      content: Duis mollit nostrud voluptate mollit Lorem dolore commodo veniam incididunt eiusmod.
-    - label: Do you offer support?
-      content: Aliqua sit nisi consequat pariatur Lorem minim irure qui.
+    - label: Chi phí thiết kế website là bao nhiêu?
+      content: Chi phí thiết kế website phụ thuộc vào nhiều yếu tố như số trang, tính năng, và yêu cầu thiết kế đặc biệt. Chúng tôi cung cấp nhiều gói dịch vụ với các mức giá khác nhau để phù hợp với ngân sách và nhu cầu của bạn. Vui lòng liên hệ với chúng tôi để nhận báo giá cụ thể cho dự án của bạn.
+    - label: Tôi có thể chỉnh sửa nội dung website sau khi hoàn thành không?
+      content: Có, chúng tôi sẽ cung cấp hướng dẫn và đào tạo cơ bản để bạn có thể tự chỉnh sửa nội dung website của mình. Ngoài ra, nếu bạn cần hỗ trợ thêm, chúng tôi cũng có các gói bảo trì và cập nhật nội dung tùy chọn.
+    - label: Website của tôi có được tối ưu hóa cho công cụ tìm kiếm (SEO) không?
+      content: Có, chúng tôi chú trọng vào việc tối ưu hóa website để giúp cải thiện khả năng tìm thấy trên các công cụ tìm kiếm như Google. Chúng tôi sẽ tích hợp các yếu tố SEO cơ bản như từ khóa, thẻ meta, và cấu trúc URL trong quá trình thiết kế. Để có kết quả tốt nhất, bạn có thể tham khảo các dịch vụ SEO chuyên sâu thêm.
+    - label: Tôi có cần phải mua tên miền và hosting không?
+      content: Có, bạn sẽ cần phải mua tên miền và dịch vụ lưu trữ (hosting) cho website của mình. Chúng tôi có thể hỗ trợ bạn trong việc lựa chọn và đăng ký tên miền cũng như tìm dịch vụ hosting phù hợp, hoặc bạn có thể sử dụng dịch vụ của nhà cung cấp mà bạn chọn.
+    - label: Website của tôi có thể được cập nhật và mở rộng sau này không?
+      content: Có, chúng tôi thiết kế website với khả năng mở rộng và cập nhật dễ dàng. Bạn có thể thêm các trang mới, tính năng mới, hoặc thực hiện các thay đổi khi cần. Chúng tôi cung cấp các dịch vụ bảo trì và cập nhật để hỗ trợ bạn trong quá trình này.
+    - label: Tôi cần chuẩn bị những gì trước khi bắt đầu dự án thiết kế website?
+      content: Để bắt đầu dự án thiết kế website, bạn nên chuẩn bị các tài liệu như nội dung văn bản, hình ảnh, và thông tin về thương hiệu của bạn. Chúng tôi sẽ làm việc với bạn để xác định mục tiêu của website và các yêu cầu thiết kế cụ thể.
+    - label: Có thể thiết kế website cho các thiết bị di động không?
+      content:  Có, chúng tôi thiết kế website để đáp ứng và hoạt động tốt trên mọi thiết bị, bao gồm máy tính để bàn, máy tính bảng, và điện thoại di động. Thiết kế đáp ứng (responsive design) giúp đảm bảo rằng website của bạn sẽ hiển thị đẹp và dễ sử dụng trên tất cả các kích thước màn hình.
