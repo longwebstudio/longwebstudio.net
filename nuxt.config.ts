@@ -30,11 +30,11 @@ export default defineNuxtConfig({
     // Temporary workaround for prerender regression. see https://github.com/nuxt/nuxt/issues/27490
     '/': { prerender: true },
     '/blog': { redirect: 'https://blog.longwebstudio.net/', prerender: false },
-    '/cua-hang': { redirect: 'https://shop.longwebstudio.net/', prerender: false },
-    '/san-pham': { redirect: 'https://shop.longwebstudio.net/', prerender: false },
-    '/lien-he': { redirect: 'https://shop.longwebstudio.net/', prerender: false },
-    '/gioi-thieu': { redirect: 'https://shop.longwebstudio.net/', prerender: false },
-    '/cam-on': { redirect: 'https://shop.longwebstudio.net/', prerender: false }
+    '/cua-hang': { redirect: 'https://store.longwebstudio.net/cua-hang', prerender: false },
+    '/san-pham': { redirect: 'https://store.longwebstudio.net/cua-hang', prerender: false },
+    '/lien-he': { redirect: 'https://store.longwebstudio.net/lien-he', prerender: false },
+    '/gioi-thieu': { redirect: 'https://store.longwebstudio.net/gioi-thieu', prerender: false },
+    '/cam-on': { redirect: 'https://store.longwebstudio.net/cam-on', prerender: false }
   },
 
   devtools: {

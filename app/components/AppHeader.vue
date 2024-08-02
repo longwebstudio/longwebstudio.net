@@ -46,10 +46,11 @@ nuxtApp.hooks.hookOnce('page:finish', () => {
 
     <template #right>
       <UButton
-        label="Đăng nhập"
+        label="0374638603"
+        to="tel:0374638603"
         color="white"
         variant="ghost"
-        trailing-icon="i-heroicons-arrow-right-20-solid"
+        icon="i-simple-icons-zalo"
         class="hidden lg:flex"
       />
     </template>
@@ -60,15 +61,17 @@ nuxtApp.hooks.hookOnce('page:finish', () => {
       <UDivider class="my-6" />
 
       <UButton
-        label="Đăng nhập"
+        label="0374638603"
+        to="tel:0374638603"
+        icon="i-simple-icons-zalo"
         color="white"
         block
         class="mb-3"
       />
-      <UButton
+      <!-- <UButton
         label="Bắt đầu"
         block
-      />
+      /> -->
     </template>
   </UHeader>
 </template>
