@@ -13,11 +13,11 @@ hero:
       trailing: true
       to: '#features'
       size: xl
-    - label: 0978.333.963
+    - label: 0374 638 603
       icon: i-simple-icons-zalo
       size: xl
       color: gray
-      to: tel:0978333963
+      to: tel:0374638603
       target: _blank
 logos:
   title: Thiết kế website hiện đại

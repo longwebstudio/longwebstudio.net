@@ -90,7 +90,7 @@ function onSubmit() {
 
     <template #left>
       <p class="text-gray-500 dark:text-gray-400 text-sm">
-        Copyright © {{ new Date().getFullYear() }}. All rights reserved.
+        Long Web Studio © {{ new Date().getFullYear() }}. <a href="https://blog.longwebstudio.net/" target="_blank">Làm Website Cùng Long</a>.
       </p>
     </template>
 
