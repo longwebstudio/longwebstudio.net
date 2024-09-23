@@ -1,11 +1,11 @@
-title: Long Web Studio - Làm website chuyên nghiệp
-description: "Làm website chuyên nghiệp hiệu quả, giúp doanh nghiệp của bạn nổi bật trên internet và thu hút khách hàng tiềm năng ngay hôm nay!"
+title: Long Web Studio - Thiết kế Website Giá Rẻ Trọn Gói
+description: "Bạn đang cần thiết kế website giá rẻ, chuyên nghiệp? Long Web Studio cung cấp dịch vụ thiết kế website trọn gói với giá cả phải chăng, chất lượng cao và hỗ trợ tận tâm. Liên hệ ngay để nhận tư vấn miễn phí!"
 hero:
-  title: Làm Website Chuyên Nghiệp - Nổi Bật Trên Internet và Thu Hút Khách Hàng
-  description: Tăng cường sự hiện diện trực tuyến của doanh nghiệp với thiết kế website chuyên nghiệp. Đảm bảo nổi bật trên internet và thu hút khách hàng tiềm năng bằng một trang web hiệu quả, tối ưu SEO. Khám phá ngay giải pháp thiết kế web chất lượng cho doanh nghiệp của bạn!
+  title: Thiết kế Website Giá Rẻ Trọn Gói - Nâng Tầm Doanh Nghiệp Của Bạn
+  description: Nâng tầm thương hiệu với website giá rẻ trọn gói từ Long Web Studio. Thiết kế đẹp, tối ưu SEO, bảo mật an toàn, hỗ trợ 24/7. Liên hệ ngay để sở hữu website chuyên nghiệp với chi phí thấp nhất!
   headline:
     label: Long Web Studio
-    to: https://facebook.com/longwebstudio
+    to: https://www.longwebstudio.net/
     icon: i-heroicons-arrow-top-right-on-square-20-solid
   links:
     - label: Bắt đầu
@@ -17,10 +17,10 @@ hero:
       icon: i-simple-icons-zalo
       size: xl
       color: gray
-      to: tel:0374638603
+      to: https://zalo.me/g/ylqpdh323
       target: _blank
 logos:
-  title: Thiết kế website hiện đại
+  title: Thiết kế website giá rẻ
   icons:
     - i-simple-icons-vuedotjs
     - i-simple-icons-nextdotjs
@@ -28,9 +28,9 @@ logos:
     - i-simple-icons-tailwindcss
     - i-simple-icons-githubpages
 features:
-  headline: Tạo sự hiện diện online
-  title: Xây dựng sự hiện diện online cho doanh nghiệp.
-  description: Khi bạn chọn dịch vụ làm website chuyên nghiệp, điều quan trọng là tìm kiếm sự kết hợp hoàn hảo giữa chất lượng, hiệu suất, bảo mật, và sự hỗ trợ chuyên nghiệp. Chúng tôi hiểu rằng bạn không chỉ muốn một trang web đẹp và hấp dẫn, mà còn cần đảm bảo rằng nó hoạt động hiệu quả, bảo mật tốt, và có thể đáp ứng nhanh chóng những thay đổi và yêu cầu của doanh nghiệp.
+  headline: Thiết kế Website Giá Rẻ Trọn Gói - Nâng Tầm Doanh Nghiệp Của Bạn
+  title: Long Web Studio - Thiết kế Website Giá Rẻ Trọn Gói, Chất Lượng Cao.
+  description: Bạn đang muốn xây dựng thương hiệu trực tuyến nhưng băn khoăn về chi phí? Long Web Studio hiểu điều đó! Chúng tôi cung cấp dịch vụ thiết kế website giá rẻ trọn gói, giúp bạn sở hữu website chuyên nghiệp, thu hút khách hàng và tăng doanh thu mà không cần lo lắng về chi phí.
   items:
     - title: Chất lượng
       description: là yếu tố cốt lõi mà chúng tôi tập trung vào. Chúng tôi cam kết thiết kế các trang web không chỉ đẹp mắt mà còn phản ánh chính xác thương hiệu và mục tiêu của bạn.
