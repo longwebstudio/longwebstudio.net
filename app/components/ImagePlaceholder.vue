@@ -2,7 +2,8 @@
   <div class="relative">
     <div class="bg-background border-gradient rounded-xl p-4">
       <div class="aspect-w-16 aspect-h-9 rounded-lg relative overflow-hidden border border-dashed border-gray-950/10 dark:border-white/10">
-        <svg
+        <img src="https://i0.wp.com/longwebstudio.net/wordpress/wp-content/uploads/2024/10/Thiet-ke-Website-Gia-Re-Tron-Goi-LWS.png?fit=1640%2C924&ssl=1" alt="Thiết kế Website Giá Rẻ Trọn Gói" />
+        <!-- <svg
           class="absolute inset-0 h-full w-full stroke-gray-950/10 dark:stroke-white/10"
           fill="none"
         >
@@ -24,7 +25,7 @@
             width="100%"
             height="100%"
           />
-        </svg>
+        </svg> -->
       </div>
     </div>
   </div>
