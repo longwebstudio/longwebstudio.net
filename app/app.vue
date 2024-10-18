@@ -20,8 +20,8 @@ useHead({
 
 useSeoMeta({
   titleTemplate: '%s | Long Web Studio',
-  ogImage: 'https://i0.wp.com/store.longwebstudio.net/wordpress/wp-content/uploads/2021/06/thiet-ke-website-ban-hang.jpg',
-  twitterImage: 'https://i0.wp.com/store.longwebstudio.net/wordpress/wp-content/uploads/2021/06/thiet-ke-website-ban-hang.jpg',
+  ogImage: 'https://i0.wp.com/longwebstudio.net/wordpress/wp-content/uploads/2021/06/thiet-ke-website-ban-hang.jpg',
+  twitterImage: 'https://i0.wp.com/longwebstudio.net/wordpress/wp-content/uploads/2021/06/thiet-ke-website-ban-hang.jpg',
   twitterCard: 'summary_large_image'
 })
 </script>
