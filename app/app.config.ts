@@ -50,5 +50,9 @@ export default defineAppConfig({
         }
       }
     }
+  },
+
+  icon: {
+    localApiEndpoint: 'https://landing-template.nuxt.dev/api/_nuxt_icon'
   }
 })
