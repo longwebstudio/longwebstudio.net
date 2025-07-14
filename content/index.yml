@@ -1,17 +1,19 @@
-title: Thiết kế Website Giá Rẻ Trọn Gói
-description: "Bạn đang cần thiết kế website giá rẻ, chuyên nghiệp? Long Web Studio cung cấp dịch vụ thiết kế website trọn gói với giá cả phải chăng, chất lượng cao và hỗ trợ tận tâm. Liên hệ ngay để nhận tư vấn miễn phí!"
+title: Thiết Kế Website Nhanh, Chuẩn SEO, Tự Động Bán Hàng – Long Web Studio
+description: Long Web Studio – Thiết kế website tốc độ nhanh, chuẩn SEO, tự động bán hàng giúp doanh nghiệp nghỉ ngơi vẫn có đơn. Đăng ký tư vấn miễn phí ngay.
 hero:
-  title: Thiết kế Website Giá Rẻ Trọn Gói - Nâng Tầm Doanh Nghiệp Của Bạn
-  description: Nâng tầm thương hiệu với website giá rẻ trọn gói từ Long Web Studio. Thiết kế đẹp, tối ưu SEO, bảo mật an toàn, hỗ trợ 24/7. Liên hệ ngay để sở hữu website chuyên nghiệp với chi phí thấp nhất!
+  # Attention
+  title: Website tốc độ nhanh, chuẩn SEO, tự động bán hàng
+  # Interest (combined with Attention for strong hook)
+  description: Giúp doanh nghiệp nghỉ ngơi vẫn có đơn, tăng doanh số và giảm chi phí quảng cáo.
   headline:
-    label: Long Web Studio
-    to: https://www.longwebstudio.net/
+    label: Lỗ Văn Long - Long Web Studio
+    to: https://thietke.longwebstudio.net/ # Updated domain
     icon: i-heroicons-arrow-top-right-on-square-20-solid
   links:
-    - label: Bắt đầu
+    - label: Nhận tư vấn miễn phí ngay
       icon: i-heroicons-arrow-right-20-solid
       trailing: true
-      to: '#features'
+      to: '#cta' # Link to the CTA section
       size: xl
     - label: 0374 638 603
       icon: i-simple-icons-zalo
@@ -20,7 +22,7 @@ hero:
       to: https://zalo.me/g/ylqpdh323
       target: _blank
 logos:
-  title: Thiết kế website giá rẻ
+  title: Công nghệ sử dụng
   icons:
     - i-simple-icons-vuedotjs
     - i-simple-icons-nextdotjs
@@ -28,32 +30,46 @@ logos:
     - i-simple-icons-tailwindcss
     - i-simple-icons-githubpages
 features:
-  headline: Thiết kế Website Giá Rẻ Trọn Gói - Nâng Tầm Doanh Nghiệp Của Bạn
-  title: Long Web Studio - Thiết kế Website Giá Rẻ Trọn Gói, Chất Lượng Cao.
-  description: Bạn đang muốn xây dựng thương hiệu trực tuyến nhưng băn khoăn về chi phí? Long Web Studio hiểu điều đó! Chúng tôi cung cấp dịch vụ thiết kế website giá rẻ trọn gói, giúp bạn sở hữu website chuyên nghiệp, thu hút khách hàng và tăng doanh thu mà không cần lo lắng về chi phí.
+  headline: Giải pháp đột phá cho doanh nghiệp của bạn
+  title: Long Web Studio - Website hoạt động hiệu quả, tự động mang về khách hàng.
+  description: |
+    Bạn có biết?
+    ❌ Website chậm 1 giây có thể giảm 20% tỷ lệ chuyển đổi.
+    ❌ Website không chuẩn SEO khó lên top Google, phải tốn tiền chạy ads liên tục.
+    ❌ Không có hệ thống tự động bán hàng khiến bạn mệt mỏi với inbox, chốt đơn, cập nhật thủ công mỗi ngày.
+
+    Tôi là Lỗ Văn Long – Long Web Studio.
+    Với hơn 5 năm thiết kế website và xây dựng hệ thống bán hàng tự động, tôi giúp:
+
+    Website load dưới 3 giây → Giữ chân khách hàng.
+    Chuẩn SEO → Lên top Google, có khách tự nhiên.
+    Tự động hóa bán hàng → Khách để lại thông tin – thanh toán – nhận hàng hoàn toàn tự động, bạn chỉ cần tập trung phát triển sản phẩm và chăm sóc khách hàng.
   items:
-    - title: Chất lượng
-      description: là yếu tố cốt lõi mà chúng tôi tập trung vào. Chúng tôi cam kết thiết kế các trang web không chỉ đẹp mắt mà còn phản ánh chính xác thương hiệu và mục tiêu của bạn.
-      icon: i-heroicons-cog
-    - title: Hiệu suất
-      description: cũng rất quan trọng. Trang web của bạn sẽ được tối ưu hóa để tải nhanh và hoạt động mượt mà trên tất cả các thiết bị, từ máy tính để bàn đến điện thoại di động.
-      icon: i-heroicons-check
-    - title: Bảo mật
-      description: là ưu tiên hàng đầu của chúng tôi. Chúng tôi áp dụng các biện pháp bảo mật tiên tiến để bảo vệ dữ liệu của bạn và đảm bảo rằng trang web của bạn luôn an toàn trước các mối đe dọa.
+    # Retain core feature items but potentially refine descriptions to align with AIDA
+    - title: Tốc độ tối ưu
+      description: Website của bạn được tối ưu hóa để tải cực nhanh, giữ chân khách hàng và tăng tỷ lệ chuyển đổi.
+      icon: i-heroicons-rocket-launch # Changed icon to reflect speed
+    - title: Chuẩn SEO
+      description: Thiết kế website theo các tiêu chuẩn SEO mới nhất, giúp dễ dàng lên top Google và thu hút khách hàng tiềm năng miễn phí.
+      icon: i-heroicons-chart-bar # Changed icon to reflect SEO/ranking
+    - title: Tự động bán hàng
+      description: Xây dựng hệ thống tự động hóa quy trình bán hàng từ thu thập thông tin đến chốt đơn, giải phóng thời gian cho bạn.
+      icon: i-heroicons-currency-dollar # Changed icon to reflect sales automation
+    - title: Tương thích mọi thiết bị
+      description: Giao diện đẹp mắt, hoạt động mượt mà trên mọi thiết bị (máy tính, tablet, mobile) mang lại trải nghiệm tốt nhất cho người dùng.
+      icon: i-heroicons- dispositivi-mobile # Example icon for devices
+    - title: Bảo mật nâng cao
+      description: Áp dụng các biện pháp bảo mật tiên tiến để bảo vệ dữ liệu khách hàng và website của bạn khỏi các mối đe dọa trực tuyến.
       icon: i-heroicons-lock-closed
-    - title: Sự hỗ trợ chuyên nghiệp
-      description: từ đội ngũ của chúng tôi là một phần không thể thiếu. Chúng tôi luôn sẵn sàng hỗ trợ bạn trong việc quản lý, cập nhật, và duy trì trang web, đảm bảo rằng bạn luôn nhận được sự giúp đỡ khi cần.
-      icon: i-heroicons-rocket-launch
-    - title: Chi phí hợp lý
-      description: Cung cấp dịch vụ thiết kế với chi phí hợp lý mà vẫn đảm bảo giá trị cao và hiệu quả.
-      icon: i-heroicons-currency-dollar
-    - title: Phát triển trong tương lai
-      description: đảm bảo rằng trang web của bạn không chỉ đáp ứng nhu cầu hiện tại mà còn có thể phát triển và thích ứng với những thay đổi trong tương lai, giúp doanh nghiệp của bạn duy trì sự cạnh tranh và phát triển bền vững.
-      icon: i-heroicons-chart-bar
+    - title: Hỗ trợ chuyên nghiệp
+      description: Luôn sẵn sàng hỗ trợ bạn trong suốt quá trình sử dụng website, đảm bảo hoạt động ổn định và hiệu quả.
+      icon: i-heroicons-cog # Retained cog for support/management
+
 pricing:
   headline: Báo giá
-  title: Thiết kế website chỉ từ 500K
-  description: Dưới đây là các gói thiết kế website với mức giá thấp nhất, phù hợp cho ngân sách cực kỳ hạn chế.
+  title: Đầu tư hiệu quả, nhận lại giá trị vượt trội
+  description: Dưới đây là các gói thiết kế website được tối ưu để mang lại hiệu quả cao nhất với chi phí hợp lý.
+  # Pricing plans remain the same as they were not updated in the AIDA content
   plans:
     - title: Gói Mini
       description: Dành cho cá nhân hoặc doanh nghiệp nhỏ cần một trang web đơn giản và tiết kiệm nhất có thể.
@@ -95,24 +111,34 @@ pricing:
         - Tối đa 5 trang (Giới thiệu, Dịch vụ, Tin tức, Blog, Liên hệ).
         - Form liên hệ, liên kết mạng xã hội, tích hợp một số công cụ cơ bản.
         - Hỗ trợ cập nhật nội dung và bảo trì cơ bản trong 2 tháng.
+
 testimonials:
   headline: Khách hàng
-  title: nói gì về Long Web Studio.
-  description: Khách hàng đang sử dụng dịch vụ thiết kế website đã viết nhận xét gửi đến cho Long Web Studio.
+  title: Kết quả khách hàng nhận được khi hợp tác với Long Web Studio.
+  description: Lắng nghe chia sẻ từ những khách hàng đã trải nghiệm website tốc độ nhanh, chuẩn SEO, tự động bán hàng.
   items:
+    # Updated testimonials based on new content
+    - quote: Website của Long thiết kế rất nhanh, chuẩn SEO, lên top Google chỉ sau 1 tháng, doanh thu tăng gấp 3 lần.
+      author:
+        name: Chị Thắm
+        description: Chủ spa Thiên Hương
+        avatar:
+          src: /ho-tham.jpg # Assuming existing image can be reused or replaced
+          loading: lazy
+    - quote: Nhờ hệ thống tự động bán hàng, shop mình tiết kiệm chi phí ads 30% mà vẫn có đơn đều.
+      author:
+        name: Anh Quân
+        description: Kinh doanh online
+        avatar:
+          src: /default-avatar.jpg # Placeholder if no specific image provided
+          loading: lazy
+    # Retain previous testimonials if they are still relevant and approved
     - quote: Làm việc với Long Web Studio đã mang đến cho chúng tôi một trải nghiệm tuyệt vời. Họ cung cấp thiết kế website chuyên nghiệp và sáng tạo, giúp nâng cao sự hiện diện trực tuyến của công ty. Chúng tôi rất hài lòng với kết quả và dịch vụ hỗ trợ tận tình.
       author:
         name: Lan My
         description: BIGBOOS mỹ phẩm Amycos
         avatar:
           src: /lan-my.jpg
-          loading: lazy
-    - quote: Long Web Studio đã vượt xa mong đợi của chúng tôi. Trang web mới của chúng tôi không chỉ đẹp mắt mà còn rất dễ sử dụng và thân thiện với người dùng. Đội ngũ của họ rất chu đáo và hiểu rõ nhu cầu của chúng tôi.
-      author:
-        name: Hồ Thị Thắm
-        description: Bưu điện xã Tự Lập
-        avatar:
-          src: /ho-tham.jpg
           loading: lazy
     - quote: Chúng tôi rất ấn tượng với Long Web Studio. Họ đã thiết kế một website chất lượng cao, hoàn toàn phù hợp với thương hiệu của chúng tôi. Dịch vụ hỗ trợ và tư vấn trong suốt quá trình cũng rất xuất sắc.
       author:
@@ -129,18 +155,26 @@ testimonials:
           src: /ho-thanh.jpg
           loading: lazy
 cta:
-  title: Hãy cùng trò chuyện
-  description: Quan tâm đến việc hợp tác hoặc chỉ muốn chào hỏi? Hãy gửi cho tôi một tin nhắn!
+  # Action
+  title: Đăng ký tư vấn miễn phí ngay hôm nay
+  description: Tôi sẽ phân tích website hiện tại, đề xuất giải pháp tối ưu tốc độ, chuẩn SEO, tự động bán hàng phù hợp nhất cho doanh nghiệp của bạn.
   links:
-    - label: 0374 638 603
+    - label: Nhận tư vấn miễn phí ngay
       size: xl
-      to: tel:0374638603
+      to: '#cta' # Link to the CTA section itself or a form if implemented
+      icon: i-heroicons-arrow-right-20-solid # Example icon
+      trailing: true
+    - label: Hoặc liên hệ Zalo: 0374 638 603
+      size: xl
+      to: https://zalo.me/g/ylqpdh323 # Zalo link
       icon: i-simple-icons-zalo
+      color: gray
 faq:
   title: Các câu hỏi thường gặp
   description: Chúng tôi cung cấp dịch vụ làm website chuyên nghiệp với thời gian hoàn thành linh hoạt, chi phí dựa trên yêu cầu cụ thể, hỗ trợ chỉnh sửa nội dung, tối ưu hóa SEO, và thiết kế đáp ứng trên mọi thiết bị.
   items:
-    - label: Làm website chuyên nghiệp mất bao lâu? 
+    # Retain existing FAQ items as no new ones were provided
+    - label: Làm website chuyên nghiệp mất bao lâu?
       content: Thời gian hoàn thành một website phụ thuộc vào độ phức tạp và yêu cầu cụ thể của dự án. Thông thường, một website cơ bản có thể mất từ 2-4 tuần, trong khi các dự án phức tạp hơn có thể cần từ 6-8 tuần hoặc lâu hơn. Chúng tôi sẽ cung cấp một thời gian dự kiến sau khi thảo luận chi tiết về dự án của bạn.
       defaultOpen: true
     - label: Chi phí làm website chuyên nghiệp là bao nhiêu?
@@ -156,4 +190,4 @@ faq:
     - label: Tôi cần chuẩn bị những gì trước khi bắt đầu dự án thiết kế website?
       content: Để bắt đầu dự án thiết kế website, bạn nên chuẩn bị các tài liệu như nội dung văn bản, hình ảnh, và thông tin về thương hiệu của bạn. Chúng tôi sẽ làm việc với bạn để xác định mục tiêu của website và các yêu cầu thiết kế cụ thể.
     - label: Có thể thiết kế website cho các thiết bị di động không?
-      content:  Có, chúng tôi thiết kế website để đáp ứng và hoạt động tốt trên mọi thiết bị, bao gồm máy tính để bàn, máy tính bảng, và điện thoại di động. Thiết kế đáp ứng (responsive design) giúp đảm bảo rằng website của bạn sẽ hiển thị đẹp và dễ sử dụng trên tất cả các kích thước màn hình.
+      content: Có, chúng tôi thiết kế website để đáp ứng và hoạt động tốt trên mọi thiết bị, bao gồm máy tính để bàn, máy tính bảng, và điện thoại di động. Thiết kế đáp ứng (responsive design) giúp đảm bảo rằng website của bạn sẽ hiển thị đẹp và dễ sử dụng trên tất cả các kích thước màn hình.
