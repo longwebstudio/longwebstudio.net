@@ -1,5 +1,0 @@
-# START nuxt-robots (indexable)
-User-agent: *
-
-Sitemap: https://www.longwebstudio.net/sitemap.xml
-# END nuxt-robots
